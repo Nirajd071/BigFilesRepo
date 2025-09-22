@@ -13,3 +13,6 @@
 [submodule "SwarGANStudio"]
 	path = SwarGANStudio
 	url = git@github.com:Nirajd071/SwarGANStudio.git
+[submodule "Web Development"]
+	path = Web Development
+	url = git@github.com:Nirajd071/Web-Development.git
