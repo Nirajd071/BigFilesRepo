@@ -1,3 +1,15 @@
 [submodule "PLC"]
 	path = PLC
 	url = git@github.com:Nirajd071/PLC.git
+[submodule "AI-Travel"]
+	path = AI-Travel
+	url = git@github.com:Nirajd071/AI-Travel.git
+[submodule "AutoPLC"]
+	path = AutoPLC
+	url = git@github.com:Nirajd071/AutoPLC.git
+[submodule "DiscusSync"]
+	path = DiscusSync
+	url = git@github.com:Nirajd071/DiscusSync.git
+[submodule "SwarGANStudio"]
+	path = SwarGANStudio
+	url = git@github.com:Nirajd071/SwarGANStudio.git
